@@ -111,4 +111,4 @@ DOMAIN-SUFFIX,pub2.emby.wtf,Emby
 DOMAIN-SUFFIX,pub3.emby.wtf,Emby
 DOMAIN-SUFFIX,pub1cm1.emby.wtf,Emby
 DOMAIN-SUFFIX,pub2cm1.emby.wtf,Emby
-DOMAIN,pub3cm1.emby.wtf
+DOMAIN-SUFFIX,pub3cm1.emby.wtf,Emby

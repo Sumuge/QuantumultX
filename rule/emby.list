@@ -79,6 +79,14 @@ DOMAIN-SUFFIX,servers.xeton.dev,Emby
 # WaveCloud
 DOMAIN-SUFFIX,embyserver.ga,Emby
 
+# 猫熊服务器
+DOMAIN-SUFFIX,emby.kim,Emby
+
+# Polo
+DOMAIN-SUFFIX,cu.poloemby.xyz,Emby
+DOMAIN-SUFFIX,zzl.poloemby.xyz,Emby
+DOMAIN-SUFFIX,zf.hk02.77is.top,Emby
+
 # 卷毛鼠
 DOMAIN-SUFFIX,jmsooo.com,Emby
 DOMAIN-SUFFIX,cf.jmsooo.com,Emby
@@ -94,3 +102,13 @@ DOMAIN-SUFFIX,sg.gcx920110.com,Emby
 
 # 品云
 DOMAIN-SUFFIX,look.embyplus.club,Emby
+DOMAIN-SUFFIX,cf.j2l.ink,Emby
+DOMAIN-SUFFIX,azhk.embyplus.club,Emby
+
+# 终点站
+DOMAIN-SUFFIX,pub1.emby.wtf,Emby
+DOMAIN-SUFFIX,pub2.emby.wtf,Emby
+DOMAIN-SUFFIX,pub3.emby.wtf,Emby
+DOMAIN-SUFFIX,pub1cm1.emby.wtf,Emby
+DOMAIN-SUFFIX,pub2cm1.emby.wtf,Emby
+DOMAIN,pub3cm1.emby.wtf
